@@ -1,4 +1,5 @@
 {
+  "name": "Ai video youtube automation",
   "nodes": [
     {
       "parameters": {
@@ -214,6 +215,7 @@
       "alwaysOutputData": false
     }
   ],
+  "pinData": {},
   "connections": {
     "AI Agent": {
       "main": [
@@ -304,9 +306,16 @@
       ]
     }
   },
-  "pinData": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "versionId": "91ac5b90-2d96-4aff-a879-3a7bb383428a",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "b4af66c26ddb53b6ae8985c0a3accc25227d9778702cf8062eae0558473639af"
-  }
+  },
+  "id": "48zDPTcSv9HJqe6UZiOGj",
+  "tags": []
 }
